@@ -1,4 +1,4 @@
-name: Generate Contribution Snake
+name: Generate Roaming Contribution Snake
 
 on:
   schedule:
@@ -15,13 +15,16 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake animation
+      - name: Generate contribution grid
         uses: Platane/snk@v3
         with:
           github_user_name: Mitra-2004
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Animate snake through the gaps (preserve every contribution)
+        run: python scripts/roaming-snake.py
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v3.2.0
