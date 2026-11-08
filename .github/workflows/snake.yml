@@ -27,7 +27,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Make generated SVGs writable
-        run: chmod -R u+w dist
+        run: sudo chmod -R a+rwX dist
 
       - name: Animate snake through the gaps (preserve every contribution)
         run: python scripts/roaming-snake.py
