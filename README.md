@@ -2,10 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:123B5D,100:2F81F7&height=190&section=header&text=Ved%20Khairnar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36" alt="Ved Khairnar profile banner" />
 
-### Computer Engineering Student · Software Builder · Cybersecurity & GenAI Enthusiast
+### Software Engineering · Business Analytics · Operations Consulting
 
-<a href="https://github.com/Mitra-2004?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore%20my%20work-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects" /></a>
-<img src="https://komarev.com/ghpvc/?username=Mitra-2004&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile views" />
+<a href="https://ved-khairnar-fieldnotes.freekestrel33.chatgpt.site"><img src="https://img.shields.io/badge/Portfolio-House_Khairnar-C4A671?style=for-the-badge" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/ved-khairnar-7a91011ba"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+<a href="mailto:khairnarved560@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-B44640?style=for-the-badge" alt="Email" /></a>
 
 </div>
 
@@ -24,7 +25,10 @@ I’m **Ved Khairnar**, a Computer Engineering undergraduate at **International 
 - 🧠 Learning through Python, Java, SQL, and data structures
 - 🤝 Involved in student communities, technical events, and community building
 
-## 🚀 Projects I’m building
+## Selected projects
+
+### [OpsConsult 360 — Business Operations MIS](https://ved-khairnar-fieldnotes.freekestrel33.chatgpt.site/projects/opsconsult-360/)
+Excel, SQL and Power BI reporting for 60 synthetic projects. Explore the cost reconciliation, delivery exceptions and management dashboard.
 
 ### 💳 [PayLens — Payment Network Intelligence](https://github.com/Mitra-2004/paylens-payment-analytics)
 A payment analytics project for exploring transaction data and surfacing useful patterns.
